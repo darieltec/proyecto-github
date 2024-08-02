@@ -40,7 +40,7 @@ body {
 
 .sidebar {
     grid-area: sidebar;
-    background-color: #444;
+    background-color: lightseagreen;
     color: white;
     padding: 20px;
     display: flex;
@@ -50,7 +50,7 @@ body {
 
 .main {
     grid-area: main;
-    background-color: #f4f4f4;
+    background-color: lightblue;
     padding: 20px;
     display: flex;
     flex-direction: column;
@@ -80,7 +80,7 @@ body {
 
 .footer {
     grid-area: footer;
-    background-color: #333;
+    background-color: lightgreen;
     color: white;
     display: flex;
     align-items: center;
